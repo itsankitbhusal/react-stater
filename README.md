@@ -9,7 +9,7 @@
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/itsankitbhusal/react-stater.git
    ```
 2. Change your directory to the project folder:
 
